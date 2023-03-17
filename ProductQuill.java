@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringJoiner;
 
-public class ProductQuill2 {
+public class ProductQuill {
 
     final static String BASE_URL = "https://www.quill.com";
     final static String URL = "https://www.quill.com/hanging-file-folders/cbk/122567.html";
